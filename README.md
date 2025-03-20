@@ -1,6 +1,6 @@
 <div align="center">
 
-## 반가워요 👋
+## 반가워요, Hello, こんにちは！ 👋
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaoba22)](https://solved.ac/jaoba22)
@@ -27,5 +27,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#
+![Aoi-Aoba's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoi-aoba&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 </div>
