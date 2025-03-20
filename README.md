@@ -1,4 +1,5 @@
-## Hi there 👋
+## 반가워요 👋
+### 세상에 도움이 되고 싶은 개발자 지망생
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaoba22)](https://solved.ac/jaoba22)
 
