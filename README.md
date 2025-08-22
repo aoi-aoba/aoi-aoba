@@ -4,6 +4,7 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaoba22)](https://solved.ac/jaoba22)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyuuka1124)](https://solved.ac/pyuuka1124)
 
 ## 💻 Tech Stacks
 #### 📖 Languages Experienced
