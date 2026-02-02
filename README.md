@@ -1,6 +1,14 @@
 <div align="center">
 
 ## 반가워요, Hello, こんにちは！ 👋
+아주대학교 디지털미디어학과에 재학 중인 학부생 3학년입니다.\
+컴퓨터 그래픽스와 웹/앱 개발에 관심이 있습니다.\
+주력으로 사용할 수 있는 언어는 JAVA와 C/C++, 그리고 Python입니다.\
+배우고 싶은 것도 많고 부족한 점도 많지만 열심히 하고 싶은 개발을 하기 위해 노력하고 있습니다.\
+\
+I'm a third-year undergraduate student majoring in Digital Media and International Studies at Ajou Univ.\
+I'm interested in Computer Graphics, and Web/App Development.\
+I mainly work with JAVA, C/C++, and Python, and I'm always eager to learn and improve as a developer. :)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaoba22)](https://solved.ac/jaoba22)
@@ -37,11 +45,3 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#
-<div class = "stats-container">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aoi-aoba&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aoi-aoba" style="float: left;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=aoi-aoba&show_icons=true&theme=tokyonight&hide=prs,issues)">
-</div>
-
-</div>
